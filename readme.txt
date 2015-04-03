@@ -1,3 +1,3 @@
 123.txt
-git is a no-free software
+git is a free software
 
