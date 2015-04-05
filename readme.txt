@@ -1,3 +1,3 @@
 123.txt
-bug fixed
+bug 2 fixed
 
